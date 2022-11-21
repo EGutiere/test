@@ -1,2 +1,65 @@
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo SP HD
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo RJ
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo RJ HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo SP
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo SP HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Minas
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Minas HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Bahia
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia HD" tvg-logo="http://m3u.win/images/canais/globo-bahia.png" group-title="Canais Abertos",Globo Bahia HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bauru" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Bauru
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Belem" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Belem
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Brasilia
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia HD" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Brasilia HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Campinas" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Campinas
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Campinas HD" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Campinas HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/4850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Goias" tvg-logo="http://m3u.win/images/canais/globo-goias.png" group-title="Canais Abertos",Globo Goias
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Goias HD" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Goias HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="http://m3u.win/images/canais/globo-news.png" group-title="Noticias",Globo News
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="http://m3u.win/images/canais/globo-news-hd.png" group-title="Noticias",Globo News HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Nordeste
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://m3u.win/images/canais/globo-nordeste-hd.png" group-title="Canais Abertos",Globo Nordeste HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo PR" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo PR
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/5666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo PR HD" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo PR HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/7350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RS" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo RS
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RS HD" tvg-logo="http://m3u.win/images/canais/globo-rs-hd.png" group-title="Canais Abertos",Globo RS HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Ribeirão Preto HD" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Ribeirão Preto HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/4849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo S. J. do Rio Preto" tvg-logo="http://m3u.win/images/canais/globo-s-j-do-rio-preto.png" group-title="Canais Abertos",Globo S. J. do Rio Preto
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo S. J. do Rio Preto HD" tvg-logo="http://m3u.win/images/canais/globo-s-j-do-rio-preto-hd.png" group-title="Canais Abertos",Globo S. J. do Rio Preto HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SC" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo SC
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/4848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SC HD" tvg-logo="http://m3u.win/images/canais/globo-sc-hd.png" group-title="Canais Abertos",Globo SC HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Sorocaba" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Sorocaba
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globosat" tvg-logo="http://m3u.win/images/canais/globosat.png" group-title="Variedades e Musicas",Globosat
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/5524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globosat HD" tvg-logo="http://m3u.win/images/canais/globosat-hd.png" group-title="Variedades e Musicas",Globosat HD
